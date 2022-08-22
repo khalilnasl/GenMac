@@ -28,7 +28,7 @@ int main() {
     int capacity = 8;
     string A[capacity];
     GenMac(A, capacity);
-    cout << A[1] << endl;
+    cout << A[0] << endl;
     
     
     
